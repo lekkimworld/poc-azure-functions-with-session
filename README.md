@@ -3,4 +3,4 @@ Simple proof-of-concept for an Azure Function in node that returns an incremente
 * `redis_host` (host name to Azure Redis Cache)
 * `redis_authpass` (key to use Redis Cache)
 
-The above may be set in `local.settings.json"` for local appdev.
+The above may be set in `local.settings.json` for local appdev.
